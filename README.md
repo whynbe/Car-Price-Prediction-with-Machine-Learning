@@ -1,2 +1,3 @@
-# Car-Price-Prediction-with-Machine-Learning
-This project implements a machine learning regression model to predict vehicle prices based on features such as brand goodwill, horsepower, and mileage. The workflow covers data preprocessing, feature engineering, and rigorous model evaluation utilizing Python libraries including Pandas, Scikit-learn, and Matplotlib.
+🏎️ Task 3: Revving the Algorithm – Car Price Prediction
+The Hook: Turning horsepower, brand goodwill, and mileage into cold, hard predictions.
+The Description: How much is a car really worth? This project removes the guesswork by deploying a machine learning regression model to predict vehicle prices based on historical and technical features. From heavy data preprocessing and feature engineering to rigorous model evaluation, this repository demonstrates how to handle messy, real-world categorical data. Powered by Pandas, Scikit-learn, and Matplotlib, it is a blueprint for automated price forecasting.
